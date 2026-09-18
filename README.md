@@ -26,7 +26,7 @@ The project follows a complete data analytics workflow:
 
 ## 📊 Dashboard Preview
 
-![Power BI Dashboard](dashboard/dashboard.png)
+![Power BI Dashboard](Dashboard/dashboard.png)
 
 The interactive Power BI dashboard provides an overview of sales performance, customer behavior, product performance, and geographic sales distribution.
 
