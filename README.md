@@ -282,7 +282,7 @@ Main tasks included:
 * Descriptive analysis
 * Exploratory data analysis
 
-**File:** `python/data_cleaning_eda.ipynb`
+**File:** [python/data_cleaning_eda.ipynb](Python/data_cleaning_eda.ipynb)
 
 ---
 
@@ -299,10 +299,10 @@ SQL analysis includes:
 
 **Files:**
 
-* `sql/01_data_validation.sql`
-* `sql/02_sales_analysis.sql`
-* `sql/03_customer_analysis.sql`
-* `sql/04_product_analysis.sql`
+* [sql/01_data_validation.sql](SQL/01_data_validation.sql)
+* [sql/02_sales_analysis.sql](SQL/02_sales_analysis.sql)
+* [sql/03_customer_analysis.sql](SQL/03_customer_analysis.sql)
+* [sql/04_product_analysis.sql](SQL/04_product_analysis.sql)
 
 ---
 
@@ -316,7 +316,7 @@ Power BI was used to create an interactive dashboard for exploring:
 * Category performance
 * City-level sales
 
-**File:** `powerbi/ecommerce_dashboard.pbix`
+File: [powerbi/ecommerce_dashboard.pbix](Powerbi/ecommerce_dashboard.pbix)
 
 ---
 
@@ -324,7 +324,7 @@ Power BI was used to create an interactive dashboard for exploring:
 
 Key findings and business implications were documented separately.
 
-**File:** `insights/business_insights.md`
+**File:** [insights/business_insights.md](Insights/business_insights.md)
 
 ---
 
@@ -356,5 +356,5 @@ Aspiring **Data Analyst** with an interest in data analysis, business intelligen
 
 **GitHub:** https://github.com/Chanakan-Angyan
 
-**LinkedIn:** linkedin.com/in/chanakan-angyan-a2596742a
+**LinkedIn:** [linkedin.com/in/chanakan-angyan](https://www.linkedin.com/in/chanakan-angyan-a2596742a/)
 
