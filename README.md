@@ -316,7 +316,7 @@ Power BI was used to create an interactive dashboard for exploring:
 * Category performance
 * City-level sales
 
-File: [powerbi/ecommerce_dashboard.pbix](Powerbi/ecommerce_dashboard.pbix)
+File: [powerbi/ecommerce_dashboard.pbix](PowerBI/ecommerce_dashboard.pbix)
 
 ---
 
