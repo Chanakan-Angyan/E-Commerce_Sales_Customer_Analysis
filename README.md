@@ -282,7 +282,7 @@ Main tasks included:
 * Descriptive analysis
 * Exploratory data analysis
 
-**File:** [python/data_cleaning_eda.ipynb](Python/data_cleaning_eda.ipynb)
+**File:** [python/data_cleaning_eda.ipynb](python/data_cleaning_eda.ipynb)
 
 ---
 
